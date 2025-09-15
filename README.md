@@ -27,7 +27,9 @@
 - [Facebook](https://www.facebook.com/sharwaan.official)
 
 - [Channel](https://www.youtube.com/sharwaan_thapa)
+- 
+<h1 align="center">Preview Pictures of Jacob Aiden</h1>
 
-![preview img]()
+![preview img](preview.png)
 
 If you like this portfolio template don't forget give it a ⭐ 

@@ -14,7 +14,7 @@
 - CSS Bootstrap
 - Edit Content From One Place
 
-### [Live Preview](https://shrawaanthapa/Jacob-Aiden-Portfoilio/)
+### [Live Preview](https://shrawaanthapa.github.io/Jacob-Aiden-Portfoilio/)
 ### [YouTube](https://youtu.be/wvVcWgc83FE)
 
 ### Tutorial Video...👀

@@ -27,7 +27,7 @@
 - [Facebook](https://www.facebook.com/sharwaan.official)
 
 - [Channel](https://www.youtube.com/sharwaan_thapa)
-- 
+
 <p align="center">Preview Pictures</p>
 
 ![preview img](preview.png)

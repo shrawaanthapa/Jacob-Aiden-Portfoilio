@@ -28,7 +28,7 @@
 
 - [Channel](https://www.youtube.com/sharwaan_thapa)
 - 
-<h1 align="center">Preview Pictures of Jacob Aiden</h1>
+<p align="center">Preview Pictures</p>
 
 ![preview img](preview.png)
 
